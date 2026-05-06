@@ -13,6 +13,7 @@
 ### 💡 Others
 
 - Bump to `@expo/xcpretty@^4.4.4` ([#45473](https://github.com/expo/expo/pull/45473) by [@EvanBacon](https://github.com/EvanBacon))
+- Reduce memory pressure/usage from `withMetroErrorReportingResolver` ([#45446](https://github.com/expo/expo/pull/45446) by [@kitten](https://github.com/kitten))
 
 ## 56.0.5 — 2026-05-06
 
